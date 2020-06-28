@@ -1,0 +1,104 @@
+
+==========================
+[2020-06-13 19:42:43] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.category' doesn't exist | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2020-06-13 19:42:47] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.category' doesn't exist | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2020-06-13 19:43:11] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.category' doesn't exist | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2020-06-13 20:03:07] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.user' doesn't exist | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2020-06-13 21:05:24] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.user' doesn't exist | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2020-06-13 21:24:25] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.user' doesn't exist | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2020-06-13 21:29:00] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.user' doesn't exist | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\libs\rb.php, | Строка: 720
+==========================
+[2020-06-14 16:47:52] Текст ошибки: Страница не найдена | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 107
+==========================
+[2020-06-14 16:48:36] Текст ошибки: Undefined index: password | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\models\User.php, | Строка: 48
+==========================
+[2020-06-14 17:00:27] Текст ошибки: Undefined index: password | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\models\User.php, | Строка: 48
+==========================
+[2020-06-14 17:00:36] Текст ошибки: Метод <b>app\controllers\UserController::indexAction</b> не найден | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 98
+==========================
+[2020-06-14 17:05:42] Текст ошибки: Undefined index: password | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\models\User.php, | Строка: 48
+==========================
+[2020-06-14 17:09:23] Текст ошибки: Undefined index: login | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\models\User.php, | Строка: 48
+==========================
+[2020-06-14 18:51:36] Текст ошибки: syntax error, unexpected 'public' (T_PUBLIC), expecting ']' | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\models\User.php, | Строка: 55
+==========================
+[2020-06-14 18:52:54] Текст ошибки: syntax error, unexpected 'public' (T_PUBLIC), expecting ']' | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\models\User.php, | Строка: 53
+==========================
+[2020-06-14 18:53:05] Текст ошибки: syntax error, unexpected 'public' (T_PUBLIC), expecting ']' | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\models\User.php, | Строка: 53
+==========================
+[2020-06-14 18:58:49] Текст ошибки: Call to undefined method Valitron\Validator::rules1() | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\base\Model.php, | Строка: 59
+==========================
+[2020-06-14 19:00:12] Текст ошибки: Call to undefined method Valitron\Validator::rules1() | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\base\Model.php, | Строка: 59
+==========================
+[2020-06-14 19:00:18] Текст ошибки: Call to undefined method Valitron\Validator::rules1() | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\base\Model.php, | Строка: 59
+==========================
+[2020-06-14 19:01:52] Текст ошибки: Call to undefined method Valitron\Validator::rules1() | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\base\Model.php, | Строка: 59
+==========================
+[2020-06-14 19:02:02] Текст ошибки: Call to undefined method Valitron\Validator::rules1() | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\base\Model.php, | Строка: 59
+==========================
+[2020-06-14 19:06:24] Текст ошибки: Call to undefined method Valitron\Validator::rules1() | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\base\Model.php, | Строка: 59
+==========================
+[2020-06-14 19:06:34] Текст ошибки: Call to undefined method Valitron\Validator::rules1() | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\base\Model.php, | Строка: 59
+==========================
+[2020-06-14 19:09:05] Текст ошибки: Call to undefined method Valitron\Validator::rules1() | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\base\Model.php, | Строка: 59
+==========================
+[2020-06-14 19:10:08] Текст ошибки: Undefined property: app\models\User::$rules1 | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\base\Model.php, | Строка: 59
+==========================
+[2020-06-14 19:12:38] Текст ошибки: Undefined property: app\models\User::$rules1 | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\base\Model.php, | Строка: 59
+==========================
+[2020-06-14 19:12:42] Текст ошибки: Метод <b>app\controllers\UserController::indexAction</b> не найден | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 98
+==========================
+[2020-06-14 19:12:55] Текст ошибки: Undefined property: app\models\User::$rules1 | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\base\Model.php, | Строка: 59
+==========================
+[2020-06-14 19:38:33] Текст ошибки: <p>Не найден вид <b>D:\Aleksandr\OSPanel\domains\fw.loc/app/views/Task/signup.php</b></p> | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\base\View.php, | Строка: 52
+==========================
+[2020-06-14 19:44:30] Текст ошибки: Метод <b>app\controllers\TaskController::signuAction</b> не найден | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 98
+==========================
+[2020-06-14 19:48:34] Текст ошибки: Undefined variable: task | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\models\Task.php, | Строка: 35
+==========================
+[2020-06-14 19:50:45] Текст ошибки: Undefined index: password | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\controllers\TaskController.php, | Строка: 23
+==========================
+[2020-06-14 21:00:10] Текст ошибки: Метод <b>app\controllers\TaskController::taskAction</b> не найден | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 98
+==========================
+[2020-06-14 21:00:11] Текст ошибки: Метод <b>app\controllers\TaskController::taskAction</b> не найден | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 98
+==========================
+[2020-06-14 21:00:17] Текст ошибки: Метод <b>app\controllers\TaskController::taskAction</b> не найден | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 98
+==========================
+[2020-06-14 21:00:52] Текст ошибки: Метод <b>app\controllers\TaskController::taskAction</b> не найден | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 98
+==========================
+[2020-06-14 21:04:28] Текст ошибки: Метод <b>app\controllers\TaskController::taskAction</b> не найден | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\Router.php, | Строка: 98
+==========================
+[2020-06-14 21:14:35] Текст ошибки: move_uploaded_file(D:\Aleksandr\OSPanel\domains\fw.loc\app\controllers/view/upload/19f62c116cee3042322de7db8aae267e.jpg): failed to open stream: No such file or directory | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\controllers\TaskController.php, | Строка: 90
+==========================
+[2020-06-14 21:23:53] Текст ошибки: move_uploaded_file(D:\Aleksandr\OSPanel\domains\fw.loc\public/app/view/upload/19f62c116cee3042322de7db8aae267e.jpg): failed to open stream: No such file or directory | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\controllers\TaskController.php, | Строка: 90
+==========================
+[2020-06-14 21:25:09] Текст ошибки: move_uploaded_file(D:\Aleksandr\OSPanel\domains\fw.loc/app/app/view/upload/19f62c116cee3042322de7db8aae267e.jpg): failed to open stream: No such file or directory | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\controllers\TaskController.php, | Строка: 90
+==========================
+[2020-06-14 21:25:21] Текст ошибки: move_uploaded_file(D:\Aleksandr\OSPanel\domains\fw.loc/app/view/upload/19f62c116cee3042322de7db8aae267e.jpg): failed to open stream: No such file or directory | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\controllers\TaskController.php, | Строка: 90
+==========================
+[2020-06-14 21:27:36] Текст ошибки: move_uploaded_file(D:\Aleksandr\OSPanel\domains\fw.loc/app/upload/19f62c116cee3042322de7db8aae267e.jpg): failed to open stream: No such file or directory | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\controllers\TaskController.php, | Строка: 90
+==========================
+[2020-06-14 21:37:14] Текст ошибки: move_uploaded_file(D:\Aleksandr\OSPanel\domains\fw.loc/app/views/uploadupload/19f62c116cee3042322de7db8aae267e.jpg): failed to open stream: No such file or directory | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\controllers\TaskController.php, | Строка: 90
+==========================
+[2020-06-14 22:09:17] Текст ошибки: syntax error, unexpected ';', expecting ',' or ')' | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\fw\core\base\Model.php, | Строка: 48
+==========================
+[2020-06-14 22:13:12] Текст ошибки: Undefined variable: task | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\controllers\TaskController.php, | Строка: 103
+==========================
+[2020-06-14 22:56:29] Текст ошибки: Rule 'image' has not been registered with Valitron\Validator::addRule(). | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\vendor\vlucas\valitron\src\Valitron\Validator.php, | Строка: 1115
+==========================
+[2020-06-15 00:39:39] Текст ошибки: syntax error, unexpected '}' | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\models\Task.php, | Строка: 35
+==========================
+[2020-06-15 01:29:54] Текст ошибки: syntax error, unexpected '}', expecting ';' | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\models\Task.php, | Строка: 46
+==========================
+[2020-06-15 01:34:27] Текст ошибки: syntax error, unexpected '}', expecting ';' | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\models\Task.php, | Строка: 46
+==========================
+[2020-06-15 01:34:57] Текст ошибки: syntax error, unexpected '}', expecting end of file | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\models\Task.php, | Строка: 58
+==========================
+[2020-06-15 02:24:18] Текст ошибки: Undefined variable: _SESSION | Файл: D:\Aleksandr\OSPanel\domains\fw.loc\app\views\layouts\default.php, | Строка: 40
+==========================
